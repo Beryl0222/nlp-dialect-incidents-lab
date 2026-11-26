@@ -1,0 +1,832 @@
+[
+  {
+    "id": "a-000-0",
+    "utterance": "u-000-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我没受伤，桌上的血是红墨水。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "我没受伤，桌上的血是红墨水。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-000-0"
+    ]
+  },
+  {
+    "id": "a-001-0",
+    "utterance": "u-001-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "你问小周有没有打我？没有，他帮我捡书。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "你问小周有没有打我？没有，他帮我捡书。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-001-0"
+    ]
+  },
+  {
+    "id": "a-002-0",
+    "utterance": "u-002-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "不是阿青推的，是我自己没站稳。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "不是阿青推的，是我自己没站稳。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-002-0"
+    ]
+  },
+  {
+    "id": "a-003-0",
+    "utterance": "u-003-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "小林说我被欺负了，但那是误会，今天没发生冲突。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "小林说我被欺负了，但那是误会，今天没发生冲突。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-003-0"
+    ]
+  },
+  {
+    "id": "a-004-0",
+    "utterance": "u-004-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "唔系佢打我，我跌亲嘅。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "唔系佢打我，我跌亲嘅。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-004-0"
+    ]
+  },
+  {
+    "id": "a-004-1",
+    "utterance": "u-004-1",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-004-1"
+    ]
+  },
+  {
+    "id": "a-005-0",
+    "utterance": "u-005-0",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "text": "莫得人欺负我，衣服是下雨打湿的。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "莫得人欺负我，衣服是下雨打湿的。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-005-0"
+    ]
+  },
+  {
+    "id": "a-005-1",
+    "utterance": "u-005-1",
+    "reader": "reader-a",
+    "event_interpretation": "negative",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-005-1"
+    ]
+  },
+  {
+    "id": "a-006-0",
+    "utterance": "u-006-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "disputed",
+    "text": "我现在不敢回教室，能请老师陪我吗？",
+    "spans": [
+      {
+        "start": 0,
+        "end": 17,
+        "text": "我现在不敢回教室，能请老师陪我吗？",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-006-0"
+    ]
+  },
+  {
+    "id": "a-007-0",
+    "utterance": "u-007-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "text": "脚疼得走不了，想找校医帮忙。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "脚疼得走不了，想找校医帮忙。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-007-0"
+    ]
+  },
+  {
+    "id": "a-008-0",
+    "utterance": "u-008-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "text": "佢走咗之后我仲系惊，想有人陪。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "佢走咗之后我仲系惊，想有人陪。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-008-0"
+    ]
+  },
+  {
+    "id": "a-008-1",
+    "utterance": "u-008-1",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-008-1"
+    ]
+  },
+  {
+    "id": "a-009-0",
+    "utterance": "u-009-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "text": "老师，我手擦伤了，不晓得去哪儿处理。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "老师，我手擦伤了，不晓得去哪儿处理。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-009-0"
+    ]
+  },
+  {
+    "id": "a-009-1",
+    "utterance": "u-009-1",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-009-1"
+    ]
+  },
+  {
+    "id": "a-010-0",
+    "utterance": "u-010-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我不想说是谁，但现在需要一个大人在。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "我不想说是谁，但现在需要一个大人在。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-010-0"
+    ]
+  },
+  {
+    "id": "a-011-0",
+    "utterance": "u-011-0",
+    "reader": "reader-a",
+    "event_interpretation": "help",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我书被藏了两天，请帮我找回来。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "我书被藏了两天，请帮我找回来。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-011-0"
+    ]
+  },
+  {
+    "id": "a-012-0",
+    "utterance": "u-012-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "小林把我的书扔到了走廊，还不让我拿。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "小林把我的书扔到了走廊，还不让我拿。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-012-0"
+    ]
+  },
+  {
+    "id": "a-013-0",
+    "utterance": "u-013-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "阿青和阿禾刚才互相推了几下，我就在旁边。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "阿青和阿禾刚才互相推了几下，我就在旁边。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-013-0"
+    ]
+  },
+  {
+    "id": "a-014-0",
+    "utterance": "u-014-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "佢抢咗我支笔，叫我唔好出声。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "佢抢咗我支笔，叫我唔好出声。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-014-0"
+    ]
+  },
+  {
+    "id": "a-014-1",
+    "utterance": "u-014-1",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-014-1"
+    ]
+  },
+  {
+    "id": "a-015-0",
+    "utterance": "u-015-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我看到小陈在门口被另一位同学拦住。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 17,
+        "text": "我看到小陈在门口被另一位同学拦住。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-015-0"
+    ]
+  },
+  {
+    "id": "a-016-0",
+    "utterance": "u-016-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我们两个人争座位，后来他把椅子踢翻了。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "我们两个人争座位，后来他把椅子踢翻了。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-016-0"
+    ]
+  },
+  {
+    "id": "a-017-0",
+    "utterance": "u-017-0",
+    "reader": "reader-a",
+    "event_interpretation": "conflict",
+    "actor": null,
+    "certainty": "certain",
+    "text": "小周在午休时骂了阿林，阿林哭了。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "小周在午休时骂了阿林，阿林哭了。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-017-0"
+    ]
+  },
+  {
+    "id": "a-018-0",
+    "utterance": "u-018-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "text": "万一又有人拦我，我应该找哪位老师？现在没人拦。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "万一又有人拦我，我应该找哪位老师？现在没人拦。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-018-0"
+    ]
+  },
+  {
+    "id": "a-019-0",
+    "utterance": "u-019-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "text": "要是有人拿走我的书，我会告诉你。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "要是有人拿走我的书，我会告诉你。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-019-0"
+    ]
+  },
+  {
+    "id": "a-020-0",
+    "utterance": "u-020-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "disputed",
+    "text": "如果脚扭了，校医室是不是在楼下？只是问问。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 21,
+        "text": "如果脚扭了，校医室是不是在楼下？只是问问。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-020-0"
+    ]
+  },
+  {
+    "id": "a-021-0",
+    "utterance": "u-021-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "text": "假如佢推我，我可唔可以先走开？",
+    "spans": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "假如佢推我，我可唔可以先走开？",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-021-0"
+    ]
+  },
+  {
+    "id": "a-021-1",
+    "utterance": "u-021-1",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-021-1"
+    ]
+  },
+  {
+    "id": "a-022-0",
+    "utterance": "u-022-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我担心明天可能吵起来，现在大家还没见面。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "我担心明天可能吵起来，现在大家还没见面。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-022-0"
+    ]
+  },
+  {
+    "id": "a-023-0",
+    "utterance": "u-023-0",
+    "reader": "reader-a",
+    "event_interpretation": "hypothetical",
+    "actor": null,
+    "certainty": "certain",
+    "text": "讨论的是如果发生争执该怎么办，没有说已经发生。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "讨论的是如果发生争执该怎么办，没有说已经发生。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-023-0"
+    ]
+  },
+  {
+    "id": "a-024-0",
+    "utterance": "u-024-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "课本中写“他把同桌推倒”，我们在分析人物。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 21,
+        "text": "课本中写“他把同桌推倒”，我们在分析人物。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-024-0"
+    ]
+  },
+  {
+    "id": "a-025-0",
+    "utterance": "u-025-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "刚才读台词“救救我”，不是有人真的喊救命。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 21,
+        "text": "刚才读台词“救救我”，不是有人真的喊救命。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-025-0"
+    ]
+  },
+  {
+    "id": "a-026-0",
+    "utterance": "u-026-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "作文里的小河说“我受伤了”，小河不是我们班同学。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 24,
+        "text": "作文里的小河说“我受伤了”，小河不是我们班同学。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-026-0"
+    ]
+  },
+  {
+    "id": "a-027-0",
+    "utterance": "u-027-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "佢念紧小说入面句“唔好打我”。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "佢念紧小说入面句“唔好打我”。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-027-0"
+    ]
+  },
+  {
+    "id": "a-027-1",
+    "utterance": "u-027-1",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-027-1"
+    ]
+  },
+  {
+    "id": "a-028-0",
+    "utterance": "u-028-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我转发的是排练稿，不是今天的情况报告。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "我转发的是排练稿，不是今天的情况报告。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-028-0"
+    ]
+  },
+  {
+    "id": "a-029-0",
+    "utterance": "u-029-0",
+    "reader": "reader-a",
+    "event_interpretation": "quoted",
+    "actor": null,
+    "certainty": "certain",
+    "text": "老师让我们解释“受欺负”的词义，没有人描述实际事件。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 26,
+        "text": "老师让我们解释“受欺负”的词义，没有人描述实际事件。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-029-0"
+    ]
+  },
+  {
+    "id": "a-030-0",
+    "utterance": "u-030-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "text": "小周跟我说阿青昨天被推了，我没在现场。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "小周跟我说阿青昨天被推了，我没在现场。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-030-0"
+    ]
+  },
+  {
+    "id": "a-031-0",
+    "utterance": "u-031-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "disputed",
+    "text": "我听高年级同学说走廊有人争吵，没看清是谁。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 21,
+        "text": "我听高年级同学说走廊有人争吵，没看清是谁。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-031-0"
+    ]
+  },
+  {
+    "id": "a-032-0",
+    "utterance": "u-032-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "text": "佢话阿林唔舒服，我仲未见到阿林。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "佢话阿林唔舒服，我仲未见到阿林。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-032-0"
+    ]
+  },
+  {
+    "id": "a-032-1",
+    "utterance": "u-032-1",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "refs": [
+      "u-032-1"
+    ]
+  },
+  {
+    "id": "a-033-0",
+    "utterance": "u-033-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "text": "群里有人说阿岚的书被扔了，发消息的人不是阿岚。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "群里有人说阿岚的书被扔了，发消息的人不是阿岚。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-033-0"
+    ]
+  },
+  {
+    "id": "a-034-0",
+    "utterance": "u-034-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "text": "那是小林转述校门口的事，不是我亲眼见到。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "那是小林转述校门口的事，不是我亲眼见到。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-034-0"
+    ]
+  },
+  {
+    "id": "a-035-0",
+    "utterance": "u-035-0",
+    "reader": "reader-a",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "certain",
+    "text": "我妈妈听另一位家长讲孩子哭了，具体哪个孩子不清楚。",
+    "spans": [
+      {
+        "start": 0,
+        "end": 25,
+        "text": "我妈妈听另一位家长讲孩子哭了，具体哪个孩子不清楚。",
+        "kind": "reader_evidence"
+      }
+    ],
+    "refs": [
+      "u-035-0"
+    ]
+  },
+  {
+    "id": "dispute-1",
+    "utterance": "u-006-0",
+    "reader": "reader-b",
+    "event_interpretation": "reported",
+    "actor": null,
+    "certainty": "disputed",
+    "refs": [
+      "u-006-0"
+    ]
+  },
+  {
+    "id": "dispute-2",
+    "utterance": "u-031-0",
+    "reader": "reader-b",
+    "event_interpretation": "conflict",
+    "actor": "未确认",
+    "certainty": "disputed",
+    "refs": [
+      "u-031-0"
+    ]
+  }
+]

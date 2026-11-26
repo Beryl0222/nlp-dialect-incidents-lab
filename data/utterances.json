@@ -1,0 +1,450 @@
+[
+  {
+    "id": "u-000-0",
+    "family": "event-000",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我没受伤，桌上的血是红墨水。",
+    "refs": [
+      "event-000"
+    ]
+  },
+  {
+    "id": "u-001-0",
+    "family": "event-001",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "你问小周有没有打我？没有，他帮我捡书。",
+    "refs": [
+      "event-001"
+    ]
+  },
+  {
+    "id": "u-002-0",
+    "family": "event-002",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "不是阿青推的，是我自己没站稳。",
+    "refs": [
+      "event-002"
+    ]
+  },
+  {
+    "id": "u-003-0",
+    "family": "event-003",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "小林说我被欺负了，但那是误会，今天没发生冲突。",
+    "refs": [
+      "event-003"
+    ]
+  },
+  {
+    "id": "u-004-0",
+    "family": "event-004",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "唔系佢打我，我跌亲嘅。",
+    "refs": [
+      "event-004"
+    ]
+  },
+  {
+    "id": "u-004-1",
+    "family": "event-004",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "不系他打我，我跌亲嘅。",
+    "refs": [
+      "event-004",
+      "u-004-0"
+    ]
+  },
+  {
+    "id": "u-005-0",
+    "family": "event-005",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "莫得人欺负我，衣服是下雨打湿的。",
+    "refs": [
+      "event-005"
+    ]
+  },
+  {
+    "id": "u-005-1",
+    "family": "event-005",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "没有人欺负我，衣服是下雨打湿的。",
+    "refs": [
+      "event-005",
+      "u-005-0"
+    ]
+  },
+  {
+    "id": "u-006-0",
+    "family": "event-006",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我现在不敢回教室，能请老师陪我吗？",
+    "refs": [
+      "event-006"
+    ]
+  },
+  {
+    "id": "u-007-0",
+    "family": "event-007",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "脚疼得走不了，想找校医帮忙。",
+    "refs": [
+      "event-007"
+    ]
+  },
+  {
+    "id": "u-008-0",
+    "family": "event-008",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "佢走咗之后我仲系惊，想有人陪。",
+    "refs": [
+      "event-008"
+    ]
+  },
+  {
+    "id": "u-008-1",
+    "family": "event-008",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "他走了之后我仲系惊，想有人陪。",
+    "refs": [
+      "event-008",
+      "u-008-0"
+    ]
+  },
+  {
+    "id": "u-009-0",
+    "family": "event-009",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "老师，我手擦伤了，不晓得去哪儿处理。",
+    "refs": [
+      "event-009"
+    ]
+  },
+  {
+    "id": "u-009-1",
+    "family": "event-009",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "老师，我手擦伤了，不知道去哪儿处理。",
+    "refs": [
+      "event-009",
+      "u-009-0"
+    ]
+  },
+  {
+    "id": "u-010-0",
+    "family": "event-010",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我不想说是谁，但现在需要一个大人在。",
+    "refs": [
+      "event-010"
+    ]
+  },
+  {
+    "id": "u-011-0",
+    "family": "event-011",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我书被藏了两天，请帮我找回来。",
+    "refs": [
+      "event-011"
+    ]
+  },
+  {
+    "id": "u-012-0",
+    "family": "event-012",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "小林把我的书扔到了走廊，还不让我拿。",
+    "refs": [
+      "event-012"
+    ]
+  },
+  {
+    "id": "u-013-0",
+    "family": "event-013",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "阿青和阿禾刚才互相推了几下，我就在旁边。",
+    "refs": [
+      "event-013"
+    ]
+  },
+  {
+    "id": "u-014-0",
+    "family": "event-014",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "佢抢咗我支笔，叫我唔好出声。",
+    "refs": [
+      "event-014"
+    ]
+  },
+  {
+    "id": "u-014-1",
+    "family": "event-014",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "他抢了我支笔，叫我不好出声。",
+    "refs": [
+      "event-014",
+      "u-014-0"
+    ]
+  },
+  {
+    "id": "u-015-0",
+    "family": "event-015",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我看到小陈在门口被另一位同学拦住。",
+    "refs": [
+      "event-015"
+    ]
+  },
+  {
+    "id": "u-016-0",
+    "family": "event-016",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我们两个人争座位，后来他把椅子踢翻了。",
+    "refs": [
+      "event-016"
+    ]
+  },
+  {
+    "id": "u-017-0",
+    "family": "event-017",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "小周在午休时骂了阿林，阿林哭了。",
+    "refs": [
+      "event-017"
+    ]
+  },
+  {
+    "id": "u-018-0",
+    "family": "event-018",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "万一又有人拦我，我应该找哪位老师？现在没人拦。",
+    "refs": [
+      "event-018"
+    ]
+  },
+  {
+    "id": "u-019-0",
+    "family": "event-019",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "要是有人拿走我的书，我会告诉你。",
+    "refs": [
+      "event-019"
+    ]
+  },
+  {
+    "id": "u-020-0",
+    "family": "event-020",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "如果脚扭了，校医室是不是在楼下？只是问问。",
+    "refs": [
+      "event-020"
+    ]
+  },
+  {
+    "id": "u-021-0",
+    "family": "event-021",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "假如佢推我，我可唔可以先走开？",
+    "refs": [
+      "event-021"
+    ]
+  },
+  {
+    "id": "u-021-1",
+    "family": "event-021",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "假如他推我，我可不可以先走开？",
+    "refs": [
+      "event-021",
+      "u-021-0"
+    ]
+  },
+  {
+    "id": "u-022-0",
+    "family": "event-022",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我担心明天可能吵起来，现在大家还没见面。",
+    "refs": [
+      "event-022"
+    ]
+  },
+  {
+    "id": "u-023-0",
+    "family": "event-023",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "讨论的是如果发生争执该怎么办，没有说已经发生。",
+    "refs": [
+      "event-023"
+    ]
+  },
+  {
+    "id": "u-024-0",
+    "family": "event-024",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "课本中写“他把同桌推倒”，我们在分析人物。",
+    "refs": [
+      "event-024"
+    ]
+  },
+  {
+    "id": "u-025-0",
+    "family": "event-025",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "刚才读台词“救救我”，不是有人真的喊救命。",
+    "refs": [
+      "event-025"
+    ]
+  },
+  {
+    "id": "u-026-0",
+    "family": "event-026",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "作文里的小河说“我受伤了”，小河不是我们班同学。",
+    "refs": [
+      "event-026"
+    ]
+  },
+  {
+    "id": "u-027-0",
+    "family": "event-027",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "佢念紧小说入面句“唔好打我”。",
+    "refs": [
+      "event-027"
+    ]
+  },
+  {
+    "id": "u-027-1",
+    "family": "event-027",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "他念着小说入面句“不好打我”。",
+    "refs": [
+      "event-027",
+      "u-027-0"
+    ]
+  },
+  {
+    "id": "u-028-0",
+    "family": "event-028",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我转发的是排练稿，不是今天的情况报告。",
+    "refs": [
+      "event-028"
+    ]
+  },
+  {
+    "id": "u-029-0",
+    "family": "event-029",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "老师让我们解释“受欺负”的词义，没有人描述实际事件。",
+    "refs": [
+      "event-029"
+    ]
+  },
+  {
+    "id": "u-030-0",
+    "family": "event-030",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "小周跟我说阿青昨天被推了，我没在现场。",
+    "refs": [
+      "event-030"
+    ]
+  },
+  {
+    "id": "u-031-0",
+    "family": "event-031",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我听高年级同学说走廊有人争吵，没看清是谁。",
+    "refs": [
+      "event-031"
+    ]
+  },
+  {
+    "id": "u-032-0",
+    "family": "event-032",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "佢话阿林唔舒服，我仲未见到阿林。",
+    "refs": [
+      "event-032"
+    ]
+  },
+  {
+    "id": "u-032-1",
+    "family": "event-032",
+    "speaker": "整理者释义",
+    "turn": 2,
+    "text": "他话阿林不舒服，我仲未见到阿林。",
+    "refs": [
+      "event-032",
+      "u-032-0"
+    ]
+  },
+  {
+    "id": "u-033-0",
+    "family": "event-033",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "群里有人说阿岚的书被扔了，发消息的人不是阿岚。",
+    "refs": [
+      "event-033"
+    ]
+  },
+  {
+    "id": "u-034-0",
+    "family": "event-034",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "那是小林转述校门口的事，不是我亲眼见到。",
+    "refs": [
+      "event-034"
+    ]
+  },
+  {
+    "id": "u-035-0",
+    "family": "event-035",
+    "speaker": "叙述者",
+    "turn": 1,
+    "text": "我妈妈听另一位家长讲孩子哭了，具体哪个孩子不清楚。",
+    "refs": [
+      "event-035"
+    ]
+  }
+]

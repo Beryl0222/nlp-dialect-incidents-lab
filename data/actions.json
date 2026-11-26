@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a1",
+    "action": "confirm",
+    "target": "new-1",
+    "text": "确认提问者与所问事件不同",
+    "refs": [
+      "new-1"
+    ]
+  },
+  {
+    "id": "a2",
+    "action": "revise_reader_note",
+    "target": "dispute-2",
+    "text": "后半句本人表达；前半句是引用",
+    "refs": [
+      "dispute-2"
+    ]
+  }
+]

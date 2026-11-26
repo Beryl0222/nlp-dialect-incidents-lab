@@ -1,0 +1,218 @@
+[
+  {
+    "id": "event-000",
+    "language_group": "普通话",
+    "source_conversation": "conv-000",
+    "rephrase_family": "event-000"
+  },
+  {
+    "id": "event-001",
+    "language_group": "普通话",
+    "source_conversation": "conv-001",
+    "rephrase_family": "event-001"
+  },
+  {
+    "id": "event-002",
+    "language_group": "普通话",
+    "source_conversation": "conv-002",
+    "rephrase_family": "event-002"
+  },
+  {
+    "id": "event-003",
+    "language_group": "普通话",
+    "source_conversation": "conv-003",
+    "rephrase_family": "event-003"
+  },
+  {
+    "id": "event-004",
+    "language_group": "粤语",
+    "source_conversation": "conv-004",
+    "rephrase_family": "event-004"
+  },
+  {
+    "id": "event-005",
+    "language_group": "川渝",
+    "source_conversation": "conv-005",
+    "rephrase_family": "event-005"
+  },
+  {
+    "id": "event-006",
+    "language_group": "普通话",
+    "source_conversation": "conv-006",
+    "rephrase_family": "event-006"
+  },
+  {
+    "id": "event-007",
+    "language_group": "普通话",
+    "source_conversation": "conv-007",
+    "rephrase_family": "event-007"
+  },
+  {
+    "id": "event-008",
+    "language_group": "粤语",
+    "source_conversation": "conv-008",
+    "rephrase_family": "event-008"
+  },
+  {
+    "id": "event-009",
+    "language_group": "川渝",
+    "source_conversation": "conv-009",
+    "rephrase_family": "event-009"
+  },
+  {
+    "id": "event-010",
+    "language_group": "普通话",
+    "source_conversation": "conv-010",
+    "rephrase_family": "event-010"
+  },
+  {
+    "id": "event-011",
+    "language_group": "普通话",
+    "source_conversation": "conv-011",
+    "rephrase_family": "event-011"
+  },
+  {
+    "id": "event-012",
+    "language_group": "普通话",
+    "source_conversation": "conv-012",
+    "rephrase_family": "event-012"
+  },
+  {
+    "id": "event-013",
+    "language_group": "普通话",
+    "source_conversation": "conv-013",
+    "rephrase_family": "event-013"
+  },
+  {
+    "id": "event-014",
+    "language_group": "粤语",
+    "source_conversation": "conv-014",
+    "rephrase_family": "event-014"
+  },
+  {
+    "id": "event-015",
+    "language_group": "普通话",
+    "source_conversation": "conv-015",
+    "rephrase_family": "event-015"
+  },
+  {
+    "id": "event-016",
+    "language_group": "普通话",
+    "source_conversation": "conv-016",
+    "rephrase_family": "event-016"
+  },
+  {
+    "id": "event-017",
+    "language_group": "普通话",
+    "source_conversation": "conv-017",
+    "rephrase_family": "event-017"
+  },
+  {
+    "id": "event-018",
+    "language_group": "普通话",
+    "source_conversation": "conv-018",
+    "rephrase_family": "event-018"
+  },
+  {
+    "id": "event-019",
+    "language_group": "普通话",
+    "source_conversation": "conv-019",
+    "rephrase_family": "event-019"
+  },
+  {
+    "id": "event-020",
+    "language_group": "普通话",
+    "source_conversation": "conv-020",
+    "rephrase_family": "event-020"
+  },
+  {
+    "id": "event-021",
+    "language_group": "粤语",
+    "source_conversation": "conv-021",
+    "rephrase_family": "event-021"
+  },
+  {
+    "id": "event-022",
+    "language_group": "普通话",
+    "source_conversation": "conv-022",
+    "rephrase_family": "event-022"
+  },
+  {
+    "id": "event-023",
+    "language_group": "普通话",
+    "source_conversation": "conv-023",
+    "rephrase_family": "event-023"
+  },
+  {
+    "id": "event-024",
+    "language_group": "普通话",
+    "source_conversation": "conv-024",
+    "rephrase_family": "event-024"
+  },
+  {
+    "id": "event-025",
+    "language_group": "普通话",
+    "source_conversation": "conv-025",
+    "rephrase_family": "event-025"
+  },
+  {
+    "id": "event-026",
+    "language_group": "普通话",
+    "source_conversation": "conv-026",
+    "rephrase_family": "event-026"
+  },
+  {
+    "id": "event-027",
+    "language_group": "粤语",
+    "source_conversation": "conv-027",
+    "rephrase_family": "event-027"
+  },
+  {
+    "id": "event-028",
+    "language_group": "普通话",
+    "source_conversation": "conv-028",
+    "rephrase_family": "event-028"
+  },
+  {
+    "id": "event-029",
+    "language_group": "普通话",
+    "source_conversation": "conv-029",
+    "rephrase_family": "event-029"
+  },
+  {
+    "id": "event-030",
+    "language_group": "普通话",
+    "source_conversation": "conv-030",
+    "rephrase_family": "event-030"
+  },
+  {
+    "id": "event-031",
+    "language_group": "普通话",
+    "source_conversation": "conv-031",
+    "rephrase_family": "event-031"
+  },
+  {
+    "id": "event-032",
+    "language_group": "粤语",
+    "source_conversation": "conv-032",
+    "rephrase_family": "event-032"
+  },
+  {
+    "id": "event-033",
+    "language_group": "普通话",
+    "source_conversation": "conv-033",
+    "rephrase_family": "event-033"
+  },
+  {
+    "id": "event-034",
+    "language_group": "普通话",
+    "source_conversation": "conv-034",
+    "rephrase_family": "event-034"
+  },
+  {
+    "id": "event-035",
+    "language_group": "普通话",
+    "source_conversation": "conv-035",
+    "rephrase_family": "event-035"
+  }
+]
